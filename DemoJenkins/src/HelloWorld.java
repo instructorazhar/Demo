@@ -5,7 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 System.out.println("Hello");
 System.out.println("Hi");
-System.out.println("Saud The Bad Guy");
+System.out.println("Test Jenkins Auto Build");
 
 	}
 
